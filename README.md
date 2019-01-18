@@ -3,6 +3,4 @@
 I'm writing a readme to discover how Github works.
 I guess it's important to know.
 
-## Skype has locked Andy out
-
-Disaster stations
+Now I've done it twice. I'm a pro.
